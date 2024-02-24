@@ -10,7 +10,7 @@ class Ikan:
         self.harga = harga
 
 
-#ikan ikan tersebut nantinya akan ditentukan kualitasnya dengan menggunakan pengukuran berat dana panjang
+#ikan ikan tersebut nantinya akan ditentukan kualitasnya dengan menggunakan pengukuran berat dan panjang
 # apabila berat melebihi 1 dan panjang melebihi 10cm maka akan termasuk kualitas baik
 
     def kualitas(self):
